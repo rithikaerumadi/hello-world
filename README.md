@@ -1,2 +1,2 @@
-# hello-world updated by rithika
+# hello-world
 Just another repository
